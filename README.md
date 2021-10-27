@@ -27,18 +27,19 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=seredanski20&show_icons=true&locale=en&layout=compact" alt="seredanski20" /></p>
 <details>
-  <summary><b>My✅Badges</b></summary>
 
-<code><img align="left" alt="MTA: Introduction to Programming using HTML and CSS" width="200px" src="https://images.credly.com/size/680x680/images/7cd0e3ab-f934-4a49-9c30-d1e50fc58195/MTA-Introduction_to_Programming_Using_HTML_and_CSS.png" ></a></code>
+  <details>
+  <summary><b>?? Badges</b></summary>
+
+<code><a href ="http://www.credly.com/badges/41931c0f-5be8-4e13-b3fa-82f0defd1957"><img align="left" alt="Word Specialist 2016" width="200px" src="https://images.credly.com/images/fd092703-61db-4e9f-9c7c-2211d44ca87d/MOS_Word.png" ></a></code>
   
-  <code><img align="left" alt="Word Office 2016" width="200px" src="https://images.credly.com/images/fd092703-61db-4e9f-9c7c-2211d44ca87d/MOS_Word.png" ></a></code>
+  <code><a href ="https://www.credly.com/earner/earned/badge/b25fd806-cdc5-4296-a6ff-3e651e00ec07"><img align="left" alt="Word Office 2016" width="200px" src="https://images.credly.com/size/680x680/images/7cd0e3ab-f934-4a49-9c30-d1e50fc58195/MTA-Introduction_to_Programming_Using_HTML_and_CSS.png" ></a></code>
 </details>  
 
 <br>
   <hr>
 <div align="center">
 
-# < Good Luck >
+# Good Luck !
 
-</div>" ></a></code>
-</details>  
+</div>
