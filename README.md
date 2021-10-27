@@ -53,6 +53,6 @@
   <hr>
 <div align="center">
 
-# Foucus on yourself not others!
+# Good Luck
 
 </div>
