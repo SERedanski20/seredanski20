@@ -25,11 +25,7 @@
 </p>
 <hr>
 
-<details>	
-  <summary><b>『⚡』 Github Stats</b></summary>
 
-![Grade](https://github-readme-stats.vercel.app/api?username=shhristov20&show_icons=true&theme=radical&count_private=true)
-</details>
 
 <details style = "display: inline;">
   <summary><b>『🏅』 Badges</b></summary>
