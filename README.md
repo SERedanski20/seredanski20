@@ -27,6 +27,12 @@
 
 
 
+  <summary><b>⚡ Github Stats</b></summary>
+
+![Grade](https://github-readme-stats.vercel.app/api?username=SERedanski20&show_icons=true&theme=radical&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SERedanski20&theme=radical)](https://github.com/SERedanski20)
+</details>
+
 <details style = "display: inline;">
   <summary><b>『🏅』 Badges</b></summary>
  <a href =""><img align="left" alt="HTML and CSS" width="200px" src="https://images.credly.com/size/680x680/images/241488f4-9110-41aa-804e-51a8f8ba430d/MTA-Introduction_to_Programming_Using_HTML_and_CSS-600x600.png" ></a>
