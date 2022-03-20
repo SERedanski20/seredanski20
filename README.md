@@ -27,11 +27,15 @@
 
 
 
+
+<details>	
   <summary><b>⚡ Github Stats</b></summary>
 
 ![Grade](https://github-readme-stats.vercel.app/api?username=SERedanski20&show_icons=true&theme=radical&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SERedanski20&theme=radical)](https://github.com/SERedanski20)
 </details>
+
+
 
 <details style = "display: inline;">
   <summary><b>『🏅』 Badges</b></summary>
