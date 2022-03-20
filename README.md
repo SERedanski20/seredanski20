@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm Simeon</h1>
+<h1>Hi there👋</h1>
 <h1 align="left"> <img src="https://komarev.com/ghpvc/?username=shhristov20&label=Profile%20views&color=0e75b6&style=flat-square" alt="shhristov20" /> </h1>
 <h2>About Me</h2>
 <img align="right" height="250" width="375" alt="" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" />
