@@ -41,5 +41,5 @@
   <summary><b>『🏅』 Badges</b></summary>
  <a href =""><img align="left" alt="HTML and CSS" width="200px" src="https://images.credly.com/size/680x680/images/241488f4-9110-41aa-804e-51a8f8ba430d/MTA-Introduction_to_Programming_Using_HTML_and_CSS-600x600.png" ></a>
    <a href =""><img align="left" alt="Word Office 2016" width="200px" src="https://images.credly.com/size/680x680/images/fd092703-61db-4e9f-9c7c-2211d44ca87d/MOS_Word.png" ></a>
-     <a href =""><img align="left" alt="IT Specialist - JavaScript" width="200px" src="https://images.credly.com/size/680x680/images/ef99b79e-fd54-4eb5-b2a4-bf17e92a4837/ITS-Badges_JavaScript_1200px.png" ></a>
+     <a href ="https://www.credly.com/badges/3c77c1dd-8e95-4391-bd2a-49a4ec20c59b/public_url"><img align="left" alt="IT Specialist - JavaScript" width="200px" src="https://images.credly.com/size/680x680/images/ef99b79e-fd54-4eb5-b2a4-bf17e92a4837/ITS-Badges_JavaScript_1200px.png" ></a>
 </details>  
